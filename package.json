@@ -1,7 +1,7 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "",
+  "description": "burger app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,17 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/covo40/burger.git"
+    "url": "git+https://github.com/"
   },
-  "author": "",
+  "author": "Chris Covarrubiashttps://github.com/covo40/eat-the-burger",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/covo40/burger/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/covo40/burger#readme",
+  "homepage": "https://github.com/covo40/eat-the-burger/blob/main/README.md",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
     "mysql": "^2.18.1"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
