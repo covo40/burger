@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eat-the-Burger
 - Node Express Handlebars Homework
 
@@ -10,6 +11,11 @@
 * [Credits](#Credits)
 
  ## Objective
+=======
+# burger
+
+## Objective
+>>>>>>> 58e6f9c5dd0511ab117ea94f8dc4e1847a96dc07
  
  - To create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.
  
@@ -17,6 +23,7 @@
 
  - Eat-the-Burger is an app that allows the user to create a list of burgers they would like to eat and check them off as "devoured" once that burger has been eaten. This app also keeps a log of the burgers eaten.
  
+<<<<<<< HEAD
 
   
  
@@ -38,3 +45,5 @@
 [ShutterStock: sokolfly](https://premier.shutterstock.com/image/detail-1610097265/burger-icon-design-template-flat-hamburger-logo-background-line-street-fast-food-symbol-illustration-modern-sandwich-concept-for-bar-cafe-stall-delivery)
 [Bulma](https://bulma.io/)
 [Vortex Burger Names](https://thevortexatl.com/)
+=======
+>>>>>>> 58e6f9c5dd0511ab117ea94f8dc4e1847a96dc07
