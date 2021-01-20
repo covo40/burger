@@ -1,0 +1,10 @@
+<li>
+	<div class="field is-grouped is-grouped-centered" id="burgers-added">
+		<h3>{{burger_name}}</h3>
+		{{#unless devoured}}
+		<button class="button change-devour" id="devourBtn" data-id="{{id}}" data-munch="{{true}}">
+			<i class="fas fa-utensils" id="fork" style="margin-right: 7px;"></i>CHOMP IT!
+		</button>
+		{{/unless}}
+	</div>
+</li>
